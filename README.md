@@ -2,7 +2,7 @@
 This example project is written in Java, and tested with Gradle/JUnit.
 
 ### The assignment
-There are tests being run automaticaly in this project that are failing. First branch this repository then make sure you are on your own branch and edit the program so that it would pass the tests. Next add, commit, and push your changes to your branch. Finally, open a pull request and this will alert me that you have completed this assignment. Do not merge your pull request.
+There are tests being run automaticaly in this project that are failing. First branch this repository and clone it. Then make sure you are on your own branch and edit the program so that it would pass the tests. Next add, commit, and push your changes to your branch. Finally, open a pull request and this will alert me that you have completed this assignment. Do not merge your pull request.
 
 ### Setup command
 N/A

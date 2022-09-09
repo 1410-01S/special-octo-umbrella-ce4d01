@@ -119,7 +119,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://drive.google.com/file/d/1a5IOG6VWbz57KTaZ5EL36UnOUPKpBXOK/view?usp=sharing" width="60" />
+    <img alt="Gatsby" src="https://firebasestorage.googleapis.com/v0/b/school-suu.appspot.com/o/moves.PNG?alt=media&token=ce6bef26-3cc3-424e-906e-768987b6108c" width="60" />
   </a>
 </p>
 

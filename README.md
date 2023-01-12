@@ -2,7 +2,7 @@
 This example project is written in Java, and tested with Gradle/JUnit.
 
 ### The assignment
-There are tests being run automaticaly in this project that are failing. First branch this repository and clone it. Then make sure you are on your own branch and edit the program so that it would pass the tests. Next add, commit, and push your changes to your branch. Finally, open a pull request and this will alert me that you have completed this assignment. Do not merge your pull request.
+There are tests being run automaticaly in this project that are failing. You are tasked with cloning this repository and editing the Hello.java file so that it will pass the tests asserted in the TestHello.java file. Once you have made this fix you must then add, commit, and push your changes. You will know you have completed the assignment if there is a green checkmark in the gray bar above the list of files in this repository. If there is a red checkmark it means the test has not passed and you should try to edit the Hello.java file again and add, commit, and push your changes until it passes.
 
 ### Setup command
 N/A

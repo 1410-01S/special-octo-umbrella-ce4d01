@@ -4,6 +4,8 @@ This example project is written in Java, and tested with Gradle/JUnit.
 ### The assignment
 There are tests being run automaticaly in this project that are failing. You are tasked with cloning this repository and editing the Hello.java file so that it will pass the tests asserted in the TestHello.java file. Once you have made this fix you must then add, commit, and push your changes. You will know you have completed the assignment if there is a green checkmark in the gray bar above the list of files in this repository. If there is a red checkmark it means the test has not passed and you should try to edit the Hello.java file again and add, commit, and push your changes until it passes.
 
+If you have any github questions check out the content lower down in this document. It includes written explanations as well as videos to help you understand the terms used and methods required for this assignment.
+
 ### Setup command
 N/A
 
@@ -117,9 +119,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://firebasestorage.googleapis.com/v0/b/school-suu.appspot.com/o/moves.PNG?alt=media&token=ce6bef26-3cc3-424e-906e-768987b6108c" width="100%" />
-  </a>
-</p>
 
